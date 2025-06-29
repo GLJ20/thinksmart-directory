@@ -1,0 +1,136 @@
+{
+  "programs": [
+    {
+      "id": 1,
+      "name": "Forsati",
+      "description": "Forsati, launched in 2017, is a collaboration between Microsoft, Tamkeen, and ThinkSmart. It helps young Bahrainis develop essential digital and professional skills through globally recognized Microsoft certifications. The program aims to equip students for success in the global tech market while supporting the growth of Bahrain’s knowledge economy.",
+      "logo": "https://i.postimg.cc/59rw5Wjy/forsati.jpg",
+      "coordinator": {
+        "name": "Contact Forsati Team",
+        "phone": "+973-3900-1234"
+      },
+      "requirements": [
+        "Must be a Bahraini citizen",
+        "Must be in 3rd year, 4th year, or graduated"
+      ],
+      "certifications": [
+        {
+          "id": "az104",
+          "name": "Microsoft Azure Administrator Associate",
+          "code": "AZ-104",
+          "description": "Manage Azure subscriptions, deploy resources, manage storage and virtual machines.",
+          "benefits": "Ideal for IT students aiming to manage cloud infrastructure."
+        },
+        {
+          "id": "az700",
+          "name": "Microsoft Azure Network Engineer Associate",
+          "code": "AZ-700",
+          "description": "Design and implement core networking infrastructure and hybrid networking solutions.",
+          "benefits": "Best for students interested in cloud networking."
+        },
+        {
+          "id": "az500",
+          "name": "Microsoft Azure Security Engineer Associate",
+          "code": "AZ-500",
+          "description": "Implement security controls, manage identity and access, and protect data, applications, and networks.",
+          "benefits": "Great for future cybersecurity professionals."
+        },
+        {
+          "id": "ai102",
+          "name": "Microsoft Azure AI Engineer Associate",
+          "code": "AI-102",
+          "description": "Design and implement AI solutions using Microsoft Azure Cognitive Services, Azure Bot Service, and more.",
+          "benefits": "Perfect for students interested in AI applications."
+        },
+        {
+          "id": "sc300",
+          "name": "Microsoft Identity and Access Administrator Associate",
+          "code": "SC-300",
+          "description": "Manage identity and access solutions using Azure AD.",
+          "benefits": "Best for those aiming to specialize in identity management."
+        },
+        {
+          "id": "mb330",
+          "name": "Microsoft Dynamics 365 Supply Chain Functional Consultant Associate",
+          "code": "MB-330",
+          "description": "Design and implement supply chain management solutions using Dynamics 365.",
+          "benefits": "Great for business-focused IT students."
+        },
+        {
+          "id": "mb500",
+          "name": "Microsoft Dynamics 365 Finance and Operations Apps Developer Associate",
+          "code": "MB-500",
+          "description": "Develop and extend solutions using X++ and other Dynamics 365 tools.",
+          "benefits": "Ideal for technical developers interested in ERP."
+        },
+        {
+          "id": "mb310",
+          "name": "Microsoft Dynamics 365 Finance Functional Consultant Associate",
+          "code": "MB-310",
+          "description": "Implement financial solutions using Dynamics 365 Finance.",
+          "benefits": "Great for finance and IT integration."
+        },
+        {
+          "id": "az400",
+          "name": "Microsoft Azure DevOps Engineer Expert",
+          "code": "AZ-400",
+          "description": "Design and implement DevOps practices using Azure technologies.",
+          "benefits": "Great for students interested in DevOps culture and tools."
+        },
+        {
+          "id": "dp203",
+          "name": "Microsoft Azure Data Engineer Associate",
+          "code": "DP-203",
+          "description": "Design and implement data storage, integration, and processing solutions on Azure.",
+          "benefits": "Ideal for aspiring data engineers."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mustaqbali",
+      "description": "Mustaqbali is a cloud career program powered by AWS and developed by ThinkSmart. It offers students the foundational training, certifications, and hands-on experience needed to launch careers in cloud computing — one of today’s fastest-growing industries.",
+      "logo": "https://i.postimg.cc/L4Gx91tx/Must.png",
+      "coordinator": {
+        "name": "Contact Mustaqbali Team",
+        "phone": "+973-3900-5678"
+      },
+      "requirements": [
+        "Must be a Bahraini citizen",
+        "Must be in 3rd year, 4th year, or graduated"
+      ],
+      "certifications": [
+        {
+          "id": "awscloud",
+          "name": "AWS Certified Cloud Practitioner",
+          "code": "CLF-C02",
+          "description": "Foundational understanding of AWS Cloud concepts, billing, and services.",
+          "benefits": "Best for beginners exploring cloud computing careers."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Smart Coders",
+      "logo": "https://i.postimg.cc/tCP2Y4Dp/sc.png",
+      "description": "Smart Coders focuses on teaching low-code application development using the Microsoft Power Platform. Students learn to build functional business apps, automate tasks, and work with data — all without heavy coding experience.",
+      "coordinator": {
+        "name": "Contact Smart Coders Team",
+        "phone": "+973-3900-9999"
+      },
+      "requirements": [
+        "Must be a Bahraini citizen",
+        "Must be in 3rd year, 4th year, or graduated"
+      ],
+      "certifications": [
+        {
+          "id": "pl100",
+          "name": "Microsoft Power Platform App Maker",
+          "code": "PL-100",
+          "description": "Build business apps with Power Apps, automate processes, and use Power Automate and Dataverse.",
+          "benefits": "Ideal for students interested in no-code/low-code development."
+        }
+      ]
+    }
+  ]
+}
