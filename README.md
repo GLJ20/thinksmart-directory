@@ -2,6 +2,11 @@
 
 This is a web-based directory of professional certification programs under ThinkSmart, built to help students explore available opportunities and connect with coordinators for enrollment. It also serves as a tool for ambassadors to share accurate program details with interested candidates.
 
+## Deployed App
+
+You can view the live version of the app here:  
+👉 [Deployed App](https://ts-green.vercel.app/)
+
 ## Features
 
 - View programs like Forsati, Smart Coders, and more.
