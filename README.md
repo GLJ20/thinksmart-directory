@@ -5,7 +5,7 @@ This is a web-based directory of professional certification programs under Think
 ## Deployed App
 
 You can view the live version of the app here:  
-<a href="https://ts-green.vercel.app/" target="_blank" rel="noopener noreferrer">Deployed App</a>
+👉 [Deployed App](https://ts-green.vercel.app/)
 
 
 ## Features
